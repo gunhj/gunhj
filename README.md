@@ -14,6 +14,7 @@ Architecture grad turned data scientist. Currently finishing my M.S. in Data Sci
 
 | Project | What it is | Tools |
 |---|---|---|
+| [GEN-I — NAISC 2026 Singtel Track](https://github.com/gunhj/GEN-I-Singtel-NAISC-2026) 🥈 | 2nd place nationally (400+ teams) — automated ML drift detection and mitigation pipeline | Python, LightGBM, Streamlit, scikit-learn |
 | [PathPal](https://github.com/gunhj/pathpal) 🏆 | Assistive navigation device for visually impaired users — built a custom KPI framework from scratch | Python, Power BI, User Research |
 | [Project Atlas](https://github.com/gunhj/project-atlas) | Startup investment analysis with risk-adjusted ROI modelling | Python, R, Power BI, Random Forest |
 | [Matjib Map](https://gunhj.github.io/matjib_map) | Seoul restaurant discovery web app | JavaScript, Kakao Maps API |
