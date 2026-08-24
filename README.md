@@ -1,31 +1,29 @@
-# Hi, I'm Gun (GunHyun Jeong) 👋
+# Hi, I'm GunHyun Jeong
 
-I used to design buildings. Now I design insights.
+Applied AI and data-science practitioner based in Singapore, completing an MSc in Technology and Design (Data Science) at SUTD. I build practical ML and analytics systems, test whether they actually work, and present the evidence clearly to technical and business audiences.
 
-Architecture grad turned data scientist. Currently finishing my M.S. in Data Science at SUTD Singapore (Aug 2026). I work with Python, R, SQL, and Power BI to find patterns and turn them into decisions people can act on.
+- 2nd place, Singtel track, National AI Student Challenge 2026
+- Graduate Student Researcher, SUTD / Temasek Foundation collaboration
+- Native Korean, fluent English, conversational Indonesian
+- Available full-time from September 2026
 
-**Open to:** Data Analyst · Junior Data Scientist · Business Analyst · Research Analyst · Product/UX Research  
-**Available:** Aug 2026 (full-time)  
-**Languages:** Korean (native) · English (fluent) · Indonesian (conversational)
+## Featured work
 
----
-
-## Projects
-
-| Project | What it is | Tools |
+| Project | Technical focus | Evidence |
 |---|---|---|
-| [GEN-I — NAISC 2026 Singtel Track](https://github.com/gunhj/GEN-I-Singtel-NAISC-2026) 🥈 | 2nd place nationally (400+ teams) — automated ML drift detection and mitigation pipeline | Python, LightGBM, Streamlit, scikit-learn |
-| [PathPal](https://github.com/gunhj/pathpal) 🏆 | Assistive navigation device for visually impaired users — built a custom KPI framework from scratch | Python, Power BI, User Research |
-| [Project Atlas](https://github.com/gunhj/project-atlas) | Startup investment analysis with risk-adjusted ROI modelling | Python, R, Power BI, Random Forest |
-| [Matjib Map](https://gunhj.github.io/matjib_map) | Seoul restaurant discovery web app | JavaScript, Kakao Maps API |
+| [Adaptive Data-Drift Detection and Mitigation](https://github.com/gunhj/GEN-I-Singtel-NAISC-2026) | PSI/KS/chi-square drift checks, importance-aware feature pruning, LightGBM, Streamlit | Test AU-PRC 0.6993 → 0.8457; 2nd place in the Singtel track |
+| [Voice-of-Customer Analytics and Predictive Insights](https://github.com/gunhj/Singpost) | NLP, probabilistic evaluation, model governance, active learning, human review | Failed weak models closed; 50.4% deterministic workflow coverage and 76.0% analyst assistance |
+| [Crypto Market Risk Segmentation and Anomaly Detection](https://github.com/gunhj/Crypto-Exchange-User-Risk-Segmentation) | Binance public data, KMeans, Isolation Forest, NLU reason codes, BI exports | Top-100 silhouette 0.5421; EDENUSDT 17.65x volume-spike anomaly |
+| [Blockchain Steel Supply-Chain Traceability](https://github.com/gunhj/BEB-06-SHEPHERD) | ERC-1155, React, Express, MongoDB, Web3/Ganache | Arrival/acceptance token workflow and map-based monitoring prototype |
+| [Token-Incentivized Webtoon Community](https://github.com/gunhj/Webtoon-Incentive-Community) | ERC-20/721, NFT metadata, IPFS, React, Express, MySQL | On-chain rewards, NFT minting, metadata APIs, and faucet prototype |
 
----
+## What I work with
 
-## Stack
+Python, SQL, R, pandas, scikit-learn, LightGBM, statistical analysis, NLP, computer vision, GenAI evaluation, Streamlit, Power BI, Tableau, React, Node.js, and Solidity.
 
-`Python` `R` `SQL` `Power BI` `Tableau` `Excel` `scikit-learn` `Git`
+I care most about three things: sound evaluation, honest limitations, and making technical work understandable enough to support a decision.
 
----
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gunhyunjeong-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/gunhyunjeong)
-[![Email](https://img.shields.io/badge/Email-gunh.jeong@gmail.com-D14836?style=flat&logo=gmail)](mailto:gunh.jeong@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gunhyunjeong)
+- Email: gunh.jeong@gmail.com
